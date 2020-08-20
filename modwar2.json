@@ -1,5 +1,5 @@
 {
-"recover": "[1]补充弹药[2]点",
+"recover": "[1]治愈伤员[2]人",
 "sklAbsorb": "[0]采取[三光政策]",
 "sklAccumulate": "[0]开始[进行战略布局]",
 "sklAccumulated": "[1]攻击力上升",
@@ -153,7 +153,7 @@
 "sklUpgrade": "[0]做出[垂死]抗争",
 "sklUpgraded": "[0]所有属性上升",
 "sklUpgradeCancel": "[1]的[垂死]属性被打消",
-"sklZombieName": "丧尸",
+"sklZombieName": "伪军",
 "sklZombie": "[0][收编投诚部队]",
 "sklZombied": "[2]变成了[1]",
 "weaponDeathNoteAtk": "[0]在[死亡笔记]写下[1]的名字",
